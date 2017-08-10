@@ -1,0 +1,30 @@
+body{
+  background-image: url(../img/font3.jpg);
+  background-color: #EDBB99;
+  background-repeat: repeat;background-size: cover;
+  height: 300vh;
+  min-height: 100vh;
+
+}
+.row_body{
+  background-color:#DFD0D0 ;
+  opacity: 0.8;
+}
+
+.favoritos{
+
+}
+.favoritos img{
+  -webkit-filter:brightness(0.8);
+}
+.menu_fav ul li a{
+ color: rgb(10, 10, 10);
+ border: 0.05rem solid;
+}
+.menu_fav ul li a:hover{
+  background-color: #EDBB99;
+  opacity: 0.8;
+}
+.historia ul li a{
+ color: rgb(10, 10, 10);
+}

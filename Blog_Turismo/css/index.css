@@ -1,0 +1,33 @@
+body{
+  background: #F7660B url(../img/fondo.jpg) no-repeat center top;
+  height: 100rem;
+  background-size: cover;
+
+
+
+}
+.barra-superior{
+  opacity: 0.9;
+  min-height: 2rem;
+}
+
+.logo{
+  height: 200px;
+  margin-top: 0.5rem;
+  float: left;
+}
+.medium li a{
+  color:#920909;
+}
+.slogan{
+  color: #920909;
+}
+.redes li{
+  padding: 0.5rem;
+}
+.date a{
+  color: rgb(35, 37, 36);
+}
+.formato{
+  border: 5px solid #920909;
+}
